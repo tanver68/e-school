@@ -1,0 +1,411 @@
+
+   html {
+    font-size: 100%;
+}  
+.first{
+    margin-left: 32.813rem;
+
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+
+.card-title{
+  text-align: center;
+}
+.card-text{
+  text-align: center;
+}
+ 
+
+
+/* e-school er css */
+
+.head{
+    background-color: rgb(128, 128, 128);
+    width: 100%;
+    height: 3.75rem;
+    
+}
+
+
+.navbar-brand img{
+  width: 12.5rem;
+  margin-top: 0.625rem;
+ 
+
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    height: 2.19rem;
+    border-radius: 3.125rem;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 0.94rem;
+    margin: 0.25rem 0.94rem;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  
+  
+  .button1:hover {
+    background-color: white;
+    color: black;
+    
+  }
+  .row{
+    
+    width: 90rem;
+    height: 36rem;
+  }
+  .navbar{
+      background-color:  #F0FFF0;
+  }
+  .back{
+    background-color:  #F0FFF0;
+    width: 90rem;
+    height: 36rem;
+    }
+    
+  
+  .back-img{
+    width: 34.625rem;
+    height: 21.625rem;
+    left: 43.2rem;
+   
+    margin-top: -31.25rem;
+    margin-left: 31.25rem;
+    
+  }
+  .passage h6{
+    width: 11.75rem;
+    height: 1.5rem;
+    margin-left: 1.25rem;
+    margin-top: 4.4rem;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    /* identical to box height */
+    color: #FD511A;
+     display: flex;
+  }
+
+  .passage h1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 4.4rem;
+    /* or 146% */
+    margin-left: 1.25rem;
+    
+    
+    color: #000000;
+  }
+  .passage p{
+    width: 25.2rem;
+    height: 5.31rem;
+    margin-left: 1.25rem;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1rem;
+    line-height: 2.25rem;
+    /* or 225% */
+    
+    
+    color: #6C6B6B;
+  }
+  .get{
+    align-items: center;
+    padding: 0.19rem 1.56rem 1.25rem 1.56rem;
+    width: 8.75rem;
+    height: 2.19rem;
+    margin-left: 0.94rem;
+    background: #21B573;
+    border-radius: 2.5rem;
+    color: rgba(255, 255, 255, 0.973);
+  }
+  
+  .cat1{
+    width: 16.9rem;
+    height: 16.9rem;
+    background: #F8FFFB;
+    border-radius: 0.63rem;
+    margin-left: 2.2rem;
+    display: flex;
+  }
+  .cat1 img{
+
+    width: 4.13rem;
+    height: 5.31rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3.75rem;
+    background: url(image.png);
+    display: flex;
+    
+    
+  }
+  .cat2{
+    width: 16.9rem;
+    height: 16.9rem;
+    background: #F8FFFB;
+    box-shadow: 0rem 1.25rem 2.5rem rgba(0, 0, 0, 0.1);
+    border-radius: 0.63rem;
+    margin-left: 2.9rem;
+    display: flex;
+  }
+  .cat2 img{
+    width: 5rem;
+    height: 5.9rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3.75rem;
+    background: url(image.png);
+    display: flex;
+    }
+    .cat3{
+        width: 16.9rem;
+        height: 16.9rem;
+        background: #F8FFFB;
+        border-radius: 0.625rem;
+        margin-left: 2.19rem;
+        display: flex;
+    }
+  .cat3 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3.75rem;
+    width: 4.7rem;
+    height: 5rem;
+    background: url(image.png);
+    display: flex; 
+    
+  }
+  .cat4{
+    width: 16.9rem;
+    height: 16.9rem;
+    background: #F8FFFB;
+    border-radius: 0.625rem;
+    margin-left: 2.19rem;
+     display: flex; 
+    
+  }
+  .cat4 img{
+    width: 4.25rem;
+    height: 4.75rem;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3.75rem;
+    background: url(image.png);
+    display: flex; 
+
+  }
+  .cat1:hover,.cat2:hover,.cat3:hover,.cat4:hover{
+    background-color: #FFFFFF;;
+  }
+  .category1{
+    margin-top: 3.13rem;
+    margin-bottom: -14.1rem;
+  }
+  .container h3{
+    text-align: center;
+    margin-bottom: 6.25rem;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2.25rem;
+    line-height: 3.4rem;
+     /* identical to box height  */
+    color: #413960;
+
+  }
+  .card2 img{
+    width: 18.75rem;
+    height: 14.63rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 1.25rem;
+    background: url(.jpg), #CFB6B6;
+    border-radius: 0.69rem;
+  }
+  .card2{
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0rem 0.63rem 2.5rem rgba(0, 0, 0, 0.1);
+    border-radius: 1.13rem;
+  }
+  .title{
+    text-align: left;
+  }
+  .title2{
+    text-align: left;
+  }
+  .get1{
+    align-items: center;
+    padding: 0.9rem 1.6rem 1.25rem 1.6rem;
+    width: 8.75rem;
+    height: 3.19rem;
+    margin-left: -0.2rem;
+    background: #21B573;
+    border-radius: 2.5rem;
+    color: rgba(255, 255, 255, 0.973);
+    margin-top: 0.63rem;
+  }
+  .last{
+    margin-top: 2.19rem;
+  }
+  .last p{
+    text-align: right;
+    margin-top: -1.69rem;
+  }
+  .testimonial h3{
+    margin: 5rem;
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2.25rem;
+    line-height: 3.38rem;
+    /* identical to box height */
+
+
+    color:  #000000;
+  }
+  .blog img{
+    
+    margin-left: 12.5rem;
+    margin-right: 0rem;
+    
+    width: 7.5rem;
+    height: 7.5rem;
+  }
+  .paragraph{
+    
+    width: 30.25rem;
+    height: 5.63rem;
+    margin-left: 23.13rem;
+    margin-top: -6.9rem;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1rem;
+    line-height: 1.88rem;
+    /* or 187% */
+    color: #000000;
+  }
+  .finish{
+    /* position: absolute; */
+    width: 90rem;
+    height: 23.06rem;
+    left: 0rem;
+    top: 125.81rem;
+    padding-top: 1rem;
+    background: #282531;
+    margin-top: 5rem;
+  }
+  .pas1{
+    margin-top: 3.13rem;
+    
+    margin-left: 9.4rem;
+  }
+  .pas1 p{
+    width: 23.13rem;
+    height: 0.94rem;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1rem;
+    
+    /* or 187% */
+
+
+    color: #FFFFFF;
+
+  }
+  .pas2{
+    margin-top: -3.44rem;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1rem;
+    line-height: 0.94rem;
+    /* or 167% */
+    color: #FFFFFF;
+    margin-left: 40.63rem;
+
+  }
+  .pas3{
+    margin-top: -11.6rem;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1rem;
+    line-height: 0.94rem;
+    /* or 167% */
+    color: #FFFFFF;
+    margin-left: 56.3rem;
+  }
+  .pas4{
+    margin-top: -11.56rem;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1rem;
+    line-height: 0.94rem;
+    /* or 167% */
+    color: #FFFFFF;
+    margin-left: 71.88rem;
+  }
+.footer{
+    text-align: center;
+    color: #CDCDCD;
+    margin-top: 5rem;
+    font-size: 1.25rem;
+}
+
+@media(max-width:998px) {
+  html {
+    font-size: 55%;
+  }
+    
+}
+
+ @media(max-width:768px) {
+  html {
+    font-size: 45%;
+  }
+} 
+
+/* @media (max-width:768){
+  .back-img{
+   width: 100%;
+   height: auto;
+    
+  }
+  .back{
+    display: block;
+  }
+     
+
+} */
+
+/* header responsive code */
+
